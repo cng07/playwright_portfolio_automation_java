@@ -1,0 +1,6 @@
+target/
+.idea/
+.vscode/
+*.iml
+playwright-report/
+test-results/
